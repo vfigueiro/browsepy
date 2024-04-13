@@ -11,6 +11,7 @@ env2/*
 env3/*
 wenv2/*
 wenv3/*
+.venv/
 node_modules/*
 .eggs/*
 browsepy.build/*
